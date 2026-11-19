@@ -1,0 +1,13 @@
+# One board per line. Put the system first when you know it (ashby, greenhouse or lever).
+# A bare name is tried on all three. Everything after a # is a comment.
+# These are a few public boards to start with. Replace them with your own list.
+
+ashby:ramp
+ashby:notion
+ashby:elevenlabs
+greenhouse:cloudflare
+greenhouse:figma
+greenhouse:mozilla
+greenhouse:wikimedia
+lever:palantir
+airtable          # no system named: found on Greenhouse
